@@ -98,6 +98,7 @@ public class ApiRequest {
                 .then()
                 // Проверка кода статуса ответа
                 .statusCode(200);
+
     }
 
 }
